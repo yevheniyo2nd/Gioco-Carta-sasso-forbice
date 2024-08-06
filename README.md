@@ -9,7 +9,7 @@ Questo è il mio secondo progetto che ho realizzato durante il corso di Front En
 - Tailwind CSS
 - JavaScript
     - *Manipolazione del DOM*
-    - *addEventListener, getElementById, querySelector, arrow Function, Math.floor, Math.random*
+        - *addEventListener, getElementById, querySelector, arrow Function, Math.floor, Math.random*
   
 ## 📥 Istruzioni per l'installazione
 
