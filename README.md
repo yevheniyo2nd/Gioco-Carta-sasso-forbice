@@ -8,7 +8,7 @@ Questo è il mio secondo progetto che ho realizzato durante il corso di Front En
 - HTML
 - Tailwind CSS
 - JavaScript
-    - *Manipolazione del DOM*
+    - *Semplice Ai*
         - *addEventListener, getElementById, querySelector, arrow Function, Math.floor, Math.random*
   
 ## 📥 Istruzioni per l'installazione
