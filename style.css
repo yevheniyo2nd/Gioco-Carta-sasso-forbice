@@ -1,0 +1,212 @@
+/* Reset */
+* {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* Container */
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 600px;
+    background-color: rgb(63, 65, 66);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Buttons */
+.buttons {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.play-btn {
+    width: 200px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: rgb(81, 147, 212);
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: border 0.05s ease;
+}
+
+.play-btn:hover {
+    border: 4px solid white;
+    cursor: pointer;
+}
+
+.reset-btn {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: rgb(88, 101, 114);
+    font-size: 30px;
+    rotate: 180deg;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: border 0.05s ease;
+    rotate: 90deg;
+}
+
+.reset-btn:hover {
+    border: 4px solid white;
+    transform: rotate(90deg);
+    cursor: pointer;
+}
+
+/* Elements */
+.elements {
+    width: 100%;
+    height: 160px;
+    background-color: rgb(77, 77, 78);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.element {
+    width: 90px;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(71, 70, 70);
+}
+
+.element:hover {
+    border: 4px solid white;
+    cursor: pointer;
+}
+
+.element:active {
+    border: solid 2px rgb(32, 32, 32);
+    box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.4) inset;
+}
+
+.paper,
+.rock,
+.scissors {
+    background-color: rgb(165, 165, 165);
+}
+
+/* Names */
+.names {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(99, 99, 99);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 1px solid #000;
+    font-size: 30px;
+    color: rgb(253, 253, 253);
+}
+
+.name {
+    width: 33%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(155, 154, 154);
+}
+
+/* Results */
+.results {
+    width: 100%;
+    height: 160px;
+    background-color: rgb(77, 77, 78);
+    border-bottom: 1px solid #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-result,
+.vs-result,
+.ai-result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+}
+
+.user-result {
+    height: 100%;
+    width: 30%;
+    font-size: 30px;
+    background-color: rgb(91, 196, 115);
+}
+
+.vs-result {
+    height: 100%;
+    width: 40%;
+    font-size: 90px;
+    background-color: rgb(224, 228, 225);
+    color: rgb(66, 68, 66);
+}
+
+.ai-result {
+    height: 100%;
+    width: 30%;
+    font-size: 30px;
+    background-color: rgb(249, 101, 96);
+}
+
+/* Scores */
+.scores {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.user-score,
+.ai-score {
+    width: 200px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px rgb(32, 32, 32);
+    box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.4) inset;
+}
+
+.user-score {
+    background-color: rgb(81, 147, 212);
+}
+
+.ai-score {
+    background-color: rgb(233, 79, 48);
+}

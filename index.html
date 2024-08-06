@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css"><!-- CSS -->
+    <title>Paper Rock Scissors</title>
+</head>
+
+<body>
+    <div class="container">
+        <!-- btn -->
+        <div class="buttons">
+            <div class="play-btn">Play</div>
+            <div class="reset-btn">↻</div>
+        </div>
+        <!-- elements -->
+        <div class="elements">
+            <div class="element paper">Paper</div>
+            <div class="element rock">Rock</div>
+            <div class="element scissors">Scissors</div>
+        </div>
+        <!-- names -->
+        <div class="names">
+            <div class="name">User</div>
+            <div class="name">vs</div>
+            <div class="name">Ai</div>
+        </div>
+        <!-- results -->
+        <div class="results">
+            <div id="user-result-id" class="user-result"></div>
+            <div id="vs-result-id" class="vs-result"></div>
+            <div id="ai-result-id" class="ai-result"></div>
+        </div>
+        <!-- score -->
+        <div class="scores">
+            <div id="user-scores-id" class="user-score">0</div>
+            <div id="ai-scores-id" class="ai-score">0</div>
+        </div>
+    </div>
+<script src="./script.js"></script><!-- JS -->  
+</body>
+
+</html>
