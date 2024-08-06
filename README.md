@@ -5,7 +5,7 @@ Questo progetto rappresenta il gioco Carta sasso forbice dove utente deve scegli
 
 ## 🔧 Tecnologie utilizzate
 - HTML
-- Tailwind CSS
+- CSS
 - JavaScript
     - *Semplice Ai*
         - *addEventListener, getElementById, querySelector, arrow Function, Math.floor, Math.random*
