@@ -1,8 +1,8 @@
 # Gioco Carta sasso forbice
 
 ## 📝 Descrizione
-Questo è il mio secondo progetto che ho realizzato durante il corso di Front End Developer. 
-<br>Questo progetto rappresenta un semplice Ai e un esempio come manipolare elementi del DOM.</br>
+Progetto rappresenta il gioco Carta sasso forbice dove utente deve giocare contro Ai scegliendo la sua mossa e vedere chi ha vinto.
+<br>Questo progetto contiene un semplice Ai e un esempio come manipolare elementi del DOM.</br>
 
 ## 🔧 Tecnologie utilizzate
 - HTML
