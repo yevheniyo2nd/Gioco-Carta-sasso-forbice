@@ -2,7 +2,7 @@
 
 ## 📝 Descrizione
 Questo è il mio secondo progetto che ho realizzato durante il corso di Front End Developer. 
-<br>Questo progetto presenta un semplice Ai e un esempio come manipolare elementi del DOM.</br>
+<br>Questo progetto rappresenta un semplice Ai e un esempio come manipolare elementi del DOM.</br>
 
 ## 🔧 Tecnologie utilizzate
 - HTML
