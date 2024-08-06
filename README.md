@@ -2,7 +2,7 @@
 
 ## 📝 Descrizione
 Progetto rappresenta il gioco Carta sasso forbice dove utente deve giocare contro Ai scegliendo la sua mossa e vedere chi ha vinto.
-<br>Questo progetto contiene un semplice Ai e un esempio come manipolare elementi del DOM.</br>
+<br>Questo progetto contiene un semplice Ai che prova c controbattere la scelta del utente</br>
 
 ## 🔧 Tecnologie utilizzate
 - HTML
