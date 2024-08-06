@@ -1,7 +1,7 @@
 # Gioco Carta sasso forbice
 
 ## 📝 Descrizione
-Progetto rappresenta il gioco Carta sasso forbice dove utente deve scegliere la sua mossa e giocare contro Ai che proverà a controbattere la sua scelta.
+Questo progetto rappresenta il gioco Carta sasso forbice dove utente deve scegliere la sua mossa e giocare contro Ai che proverà a controbattere la sua scelta.
 
 ## 🔧 Tecnologie utilizzate
 - HTML
