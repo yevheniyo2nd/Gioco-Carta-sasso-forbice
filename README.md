@@ -7,7 +7,7 @@ Questo progetto rappresenta il gioco Carta sasso forbice dove utente deve scegli
 - HTML
 - CSS
 - JavaScript
-    - *Semplice Ai*
+    - *Simple Ai*
         - *addEventListener, getElementById, querySelector, arrow Function, Math.floor, Math.random*
   
 ## 📥 Istruzioni per l'installazione
@@ -35,6 +35,7 @@ Questo progetto rappresenta il gioco Carta sasso forbice dove utente deve scegli
 
 ## 🖱️ Istruzioni per l'uso
 Tutto il progetto è manipolabile con il Mouse (LMB - Left mouse button).
+
 1. Selezionare uno dei elementi carta, sasso o forbice
 2. Premere pulsante Play
 3. vedere chi ha vinto, Utente o Ai
