@@ -34,7 +34,7 @@ Questo progetto rappresenta il gioco Carta sasso forbice dove utente deve scegli
 <br>✅ Ottimo! Il progetto è stato copiato.</br>
 
 ## 🖱️ Istruzioni per l'uso
-Tutto il progetto è manipolabile con il Mouse (LMB - Left mouse button).
+Tutto il progetto è manipolabile con il Mouse `LMB - Left mouse button`.
 
 1. Selezionare uno dei elementi `carta`, `sasso` o `forbice`.
 2. Premere pulsante `Play`.
